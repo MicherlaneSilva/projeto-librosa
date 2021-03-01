@@ -1,0 +1,5 @@
+Requerimentos necessários para uso do projeto
+
+1. Ambiente virtual - virtualenv.
+2. Servidor Jupyter Notebook
+3. Biblioteca Librosa
