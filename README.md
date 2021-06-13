@@ -7,4 +7,4 @@ Dentre elas estão:
 - Frequência fundamental.
 - Janela de Hamming
 - MFCC
-- 
+- Escala MeL
