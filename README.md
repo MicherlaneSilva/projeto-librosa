@@ -4,3 +4,7 @@ Esse projeto apresenta os teste de algumas das funcionalidades que mais se mostr
 Dentre elas estão:
 - Geração do espectrograma.
 - Geração do oscilograma.
+- Frequência fundamental.
+- Janela de Hamming
+- MFCC
+- 
